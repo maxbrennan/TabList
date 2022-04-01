@@ -1,0 +1,4 @@
+name: Tab-List
+version: '${project.version}'
+main: com.max.tablist.TabList
+api-version: 1.18
